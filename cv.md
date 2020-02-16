@@ -1,6 +1,4 @@
-# Curriculum vitae
-Viktoryia Kiyanka 
-
+# Viktoryia Kiyanka 
 mikisum@mail.ru
 
 ## Soft skills
