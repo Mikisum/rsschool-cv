@@ -7,11 +7,6 @@ Now i'm looking for a job
 - [LinkedIn profile](https://www.linkedin.com/feed/) 
 - Telegram: @viktoryka
 
-## Soft skills
-* quick learner
-* diligent worker
-* great team player
-
 ## Skills
 * Git
 * HTML5/CSS3
