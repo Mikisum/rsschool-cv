@@ -1,6 +1,6 @@
 # Viktoryia Kiyanka 
-I'm junior frontend developer. I've experience in team development.
-Now i'm looking for a job
+I'm junior front-end developer. I've experience in team development.
+Now i'm looking for an international team to work on projects.
 ## Contact info
 - Adress: Gdańsk, Poland
 - [mikisum321@gmail.com](mailto:mikisum321@gmail.com)
